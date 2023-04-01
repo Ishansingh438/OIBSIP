@@ -1,2 +1,2 @@
 # OIBSIP
-Oasis Infotech Data Science Internship
+OASIS INFOBYTE Data Science Internship
